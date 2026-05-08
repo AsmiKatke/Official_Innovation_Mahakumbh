@@ -1,4 +1,4 @@
-# 🌟 SNDT Innovation Mahakumbh Official Portal
+<img width="2880" height="1524" alt="Screenshot 2026-05-09 030809" src="https://github.com/user-attachments/assets/da465beb-8d3d-463d-9b18-33e661b3014f" /># 🌟 SNDT Innovation Mahakumbh Official Portal
 
 The official university-wide event website for the flagship **Innovation Mahakumbh** hosted at SNDT University. This portal was architected to handle high-traffic audience engagement, serving as the central hub for event schedules, attendee registrations, and showcasing key innovation highlights.
 
@@ -21,4 +21,26 @@ Since this is a lightweight frontend website, no complex server setup or package
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [git clone https://github.com/AsmiKatke/Official_Innovation_Mahakumbh.git]
+
+2. Navigate to the project directory:
+
+Bash
+cd your-repo-name
+
+3. Open the index.html file in any modern web browser (Chrome, Firefox, Safari, Edge) to view the site locally.
+
+📸 Screenshots
+<img width="2880" height="1524" alt="Screenshot 2026-05-09 030809" src="https://github.com/user-attachments/assets/776cb307-e0ed-4dcf-a105-7a054432628b" />
+
+
+
+🛠️ Architecture & Approach
+This project was built from the ground up using core web technologies (Vanilla JS, HTML5, CSS3) to ensure lightweight performance, fast load times, and maximum compatibility without relying on heavy frontend frameworks.
+
+👩‍💻 Author
+Asmi Katke
+
+LinkedIn: linkedin.com/in/asmi-katke
+
+Email: asmi.katke25@gmail.com
