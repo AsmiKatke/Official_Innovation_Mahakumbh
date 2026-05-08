@@ -1,4 +1,5 @@
-<img width="2880" height="1524" alt="Screenshot 2026-05-09 030809" src="https://github.com/user-attachments/assets/da465beb-8d3d-463d-9b18-33e661b3014f" /># 🌟 SNDT Innovation Mahakumbh Official Portal
+
+# 🌟 SNDT Innovation Mahakumbh Official Portal
 
 The official university-wide event website for the flagship **Innovation Mahakumbh** hosted at SNDT University. This portal was architected to handle high-traffic audience engagement, serving as the central hub for event schedules, attendee registrations, and showcasing key innovation highlights.
 
