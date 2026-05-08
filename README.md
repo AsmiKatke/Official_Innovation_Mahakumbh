@@ -32,11 +32,15 @@ cd your-repo-name
 3. Open the index.html file in any modern web browser (Chrome, Firefox, Safari, Edge) to view the site locally.
 
 📸 Screenshots
-<img width="2880" height="1524" alt="Screenshot 2026-05-09 030809" src="https://github.com/user-attachments/assets/776cb307-e0ed-4dcf-a105-7a054432628b" />
+
+
+<img width="2851" height="1359" alt="Screenshot 2026-05-09 030809" src="https://github.com/user-attachments/assets/aa7fff0c-c8d2-41d3-85ce-cfcb0629254b" />
+
 
 
 
 🛠️ Architecture & Approach
+
 This project was built from the ground up using core web technologies (Vanilla JS, HTML5, CSS3) to ensure lightweight performance, fast load times, and maximum compatibility without relying on heavy frontend frameworks.
 
 👩‍💻 Author
